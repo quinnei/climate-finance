@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# macOS Finder files
+.DS_Store
+
+# R session history
+.Rhistory
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+instructions.md
+1_Data/notes.md
+1_Data/pivot_tables/~$*
+1_Data/raw/[RAW] Climate Related Development Finance (Recipient POV).xlsx
+1_Data/raw/[RAW] OECD DAC CRS.xlsx
+1_Data/raw/[RAW] MVI.xlsx
+1_Data/raw/[RAW] Population.csv
+2_Code/codebook.py
+2_Code/pipeline/track_changes.py
+2_Code/project_workflow/config_codebook.py
+3_Output/Climate Finance 2015-2023.qmd
+3_Output/setup_template_links.sh
+3_Output/TEMPLATE_SETUP_NOTES.md
+3_Output/quarto/pdf/
